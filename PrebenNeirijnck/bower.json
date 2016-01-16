@@ -1,0 +1,10 @@
+{
+  "name": "Preben Neirijnck",
+  "version": "1.0.0",
+  "authors": [ "Preben Neirijnck" ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0"
+  }
+}
